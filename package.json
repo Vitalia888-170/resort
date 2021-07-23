@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
+    "card-validator": "^8.1.1",
     "react": "^17.0.1",
+    "react-credit-card": "^0.20.0",
+    "react-credit-cards": "^0.8.3",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
+    "react-uuid": "^1.0.2",
+    "styled-components": "^5.2.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
